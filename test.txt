@@ -1,1 +1,2 @@
 this is text file 
+this is next line in text file
